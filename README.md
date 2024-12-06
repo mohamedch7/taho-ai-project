@@ -25,7 +25,7 @@ This project is a backend implementation in **Node.js** with **Express.js**, des
 
 ### Steps
    ```bash
-   git clone [<repository-url>](https://github.com/mohamedch7/taho-ai-project)
+   git clone https://github.com/mohamedch7/taho-ai-project
    cd taho-ai-project
 
    create .env file (like the .env.exp)
